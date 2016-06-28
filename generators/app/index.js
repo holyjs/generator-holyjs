@@ -108,12 +108,12 @@ module.exports = yeoman.Base.extend({
       );
 
       this.fs.copy(
-        this.templatePath('.env.example'),
+        this.templatePath('_env.example'),
         this.destinationPath('.env.example')
       );
 
       this.fs.copy(
-        this.templatePath('.gitignore'),
+        this.templatePath('_gitignore'),
         this.destinationPath('.gitignore')
       );
 

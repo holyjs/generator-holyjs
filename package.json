@@ -1,6 +1,6 @@
 {
   "name": "generator-holyjs",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "HolyJS Project Starter",
   "homepage": "https://github.com/holyjs/generator-holyjs",
   "author": {
@@ -42,7 +42,7 @@
       "node": true
     }
   },
-  "repository": "erayaydin/generator-holyjs",
+  "repository": "holyjs/generator-holyjs",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
