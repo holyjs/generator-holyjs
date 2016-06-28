@@ -1,4 +1,5 @@
-# HolyJS Generator [![0.1.0][https://badge.fury.io/js/generator-holyjs.svg]][https://www.npmjs.com/package/generator-holyjs] ![Dependency Status][https://david-dm.org/holyjs/generator-holyjs.svg]
+HolyJS Generator [![NPM Version][https://badge.fury.io/js/generator-holyjs.svg][https://www.npmjs.com/package/generator-holyjs] ![Dependency Status][https://david-dm.org/holyjs/generator-holyjs.svg]
+=================================
 
 ## Installation
 
